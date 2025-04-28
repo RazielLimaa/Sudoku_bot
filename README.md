@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto implementa um robô automático para resolver puzzles de Sudoku usando várias técnicas matemáticas e algoritmos. O programa é executado via terminal e demonstra passo a passo como um Sudoku é resolvido, explicando cada técnica utilizada.
+Fiz esse projeto para a  implementação de um robô automático para resolver puzzles de Sudoku usando várias técnicas matemáticas e algoritmos. O programa é executado via terminal e demonstra passo a passo como um Sudoku é resolvido, explicando cada técnica utilizada.
 
 ## Como Funciona
 
